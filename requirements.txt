@@ -5,3 +5,4 @@ scipy
 keras
 tensorflow
 pillow
+h5py
