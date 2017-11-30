@@ -2,3 +2,6 @@ jupyter
 pandas
 scikit-learn
 scipy
+keras
+tensorflow
+pillow
