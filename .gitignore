@@ -2,5 +2,6 @@
 .idea
 
 dogbreed/data
-dogbreed/finetune/*.h5
-dogbreed/finetune/*.npy
+dogbreed/*.h5
+dogbreed/*.npy
+dogbreed/predictions.csv
